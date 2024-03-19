@@ -24,8 +24,8 @@
   Name                    Status              Percentage
   
 Project 1                Ongoing             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % <br></br>
-Project 2                Ongoing             ██████████████████████░░░   90.51 % 
-Project 3                Complete             █████████████████████████    100 % 
+Project 2                Ongoing             ██████████████████████░░░   90.51 % <br></br>
+Project 3                Complete             █████████████████████████    100 % <br></br>
 
 </div>
 
