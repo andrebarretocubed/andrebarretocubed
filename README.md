@@ -19,19 +19,19 @@
   <table>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/EarSketch-purple?style=for-the-badge&logo=applemusic&logoColor=white" alt="Earsketch Badge"/></td>
-    <td><img src="https://img.shields.io/badge/ChatGPT-green?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge"/></td>
-    <td><img src="https://img.shields.io/badge/Tinkercad-lightblue?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad Badge"/></td>
-    <td><img src="https://img.shields.io/badge/Excalidraw-orange?style=for-the-badge&logo=excalidraw&logoColor=white" alt="SketchRNN Badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/ChatGPT-green?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Tinkercad-lightblue?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad Badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Excalidraw-orange?style=for-the-badge&logo=excalidraw&logoColor=white" alt="SketchRNN Badge"/></td>
   </tr>
    <tr>
-    <td><img src="https://img.shields.io/badge/Codepen-pink?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/></td>
-    <td><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge"/></td>
-    <td><img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 Badge"/></td>
-    <td><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Codepen-pink?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 Badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/OpenCV-grey?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/></td>
-    <td><img src="https://img.shields.io/badge/Google Sheets-darkgreen?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets Badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/OpenCV-grey?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Google Sheets-darkgreen?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets Badge"/></td>
   </tr>
   </table>
   
