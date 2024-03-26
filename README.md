@@ -44,7 +44,7 @@
 </div>
 
 <div id="stats" align="center">
-  
+<h2>📊 My Github Stats</h2>
 [![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrebarretocubed)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
