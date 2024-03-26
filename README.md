@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/EarSketch-purple?style=for-the-badge&logo=applemusic&logoColor=white" alt="Earsketch Badge"/>
   <img src="https://img.shields.io/badge/ChatGPT-green?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge"/>
   <img src="https://img.shields.io/badge/Tinkercad-red?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad Badge"/>
+  <img src="https://img.shields.io/badge/Excalidraw-orange?style=for-the-badge&logo=excalidraw&logoColor=white" alt="Tinkercad Badge"/>
 
   <br></br>
 </div>
