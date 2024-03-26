@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 Badge"/>
   <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge"/>
   <img src="https://img.shields.io/badge/OpenCV-grey?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/>
+  <img src="https://img.shields.io/badge/GoogleSheets-darkgreen?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Tinkercad Badge"/>
   
 
   <br></br>
