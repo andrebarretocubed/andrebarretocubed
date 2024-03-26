@@ -11,6 +11,7 @@
   Pronouns: He/Him
 
   Journey summary about professional development and my experiences in programming...
+  
 </p>
 </div>
 
@@ -36,8 +37,6 @@
     <td align="center"><img src="https://img.shields.io/badge/Google Sheets-darkgreen?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets Badge"/></td>
   </tr>
   </table>
-  
-  <br></br>
   </div>
 </div>
 
