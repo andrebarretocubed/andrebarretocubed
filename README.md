@@ -14,7 +14,7 @@
 </div>
 
 <div id="badges" align="center">
-  Here are some of my programming and skill badges: <br></br>
+ <h2>🛠️ My Favorite Tools and Languages</h2> <br></br>
 
   <table>
   <tr>
@@ -39,6 +39,8 @@
 </div>
 
 <div id="projects" align="left">
+
+<h2>📘 My Top Projects</h2>
 
 </div>
 
