@@ -3,7 +3,9 @@
 </div>
 
 <div id="intro" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&lines=Hello!+%F0%9F%91%8B+Allow+me+to+introduce+myself!" alt="Typing SVG" /></a>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&random=false&width=500&height=70&lines=Hello+%F0%9F%91%8B+my+name+is+Andre+Barreto!+;Welcome+to+my+Github!)](https://git.io/typing-svg)
+
 
 <p>
   Name: Andre Barreto <br></br>
