@@ -15,7 +15,7 @@
 
 <div id="badges" align="center">
   My current programming languages:
-  <img src="https://img.shields.io/badge/EarSketch-purple?style=for-the-badge&logo=music&logoColor=white" alt="Earsketch Badge"/>
+  <img src="https://img.shields.io/badge/EarSketch-purple?style=for-the-badge&logo=applemusic&logoColor=white" alt="Earsketch Badge"/>
   <img src="https://img.shields.io/badge/ChatGPT-green?style=for-the-badge&logo=openai&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 
