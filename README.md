@@ -14,7 +14,7 @@
 </div>
 
 <div id="badges" align="center">
-  My current programming languages:
+  Here are some of my programming and skill badges: <br></br>
   <img src="https://img.shields.io/badge/EarSketch-purple?style=for-the-badge&logo=applemusic&logoColor=white" alt="Earsketch Badge"/>
   <img src="https://img.shields.io/badge/ChatGPT-green?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge"/>
   <img src="https://img.shields.io/badge/Tinkercad-lightblue?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad Badge"/>
