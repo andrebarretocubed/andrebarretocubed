@@ -66,6 +66,13 @@
 </div>
   
 </div>
+
+<div id="social" align="left">
+<h2>📫 My Other Pages</h2>
+
+
+</div>
+
 <!--
 **andrebarretocubed/andrebarretocubed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
