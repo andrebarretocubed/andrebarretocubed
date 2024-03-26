@@ -42,7 +42,7 @@
 <h2>📘 My Top Projects</h2>
 <p align="left">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrebarretocubed&repo=github-readme-stats)](https://github.com/andrebarretocubed/parse-server-example)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrebarretocubed&repo=parse-server-example)](https://github.com/andrebarretocubed/parse-server-example)
     
   </p>
 </div>
