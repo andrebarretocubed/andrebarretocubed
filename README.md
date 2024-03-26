@@ -43,10 +43,12 @@
 
 </div>
 
-<div id="stats" align="center">
+<div id="stats" align="left">
 <h2>📊 My Github Stats</h2>
-  
+
+<div align="center">
 [![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrebarretocubed)](https://github.com/anuraghazra/github-readme-stats)
+</div>
   
 </div>
 <!--
