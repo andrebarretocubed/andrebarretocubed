@@ -68,8 +68,9 @@
 </div>
 
 <div id="social" align="left">
-<h2>📫 My Other Pages</h2>
+<h2>📫 Get in touch!</h2>
 
+Contact email:
 
 </div>
 
