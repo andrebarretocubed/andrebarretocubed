@@ -14,8 +14,7 @@
 </div>
 
 <div id="badges" align="center">
- <h2>🛠️ My Favorite Tools and Languages</h2> <br></br>
-
+ <h2>🛠️ My Favorite Tools and Languages</h2>
   <table>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/EarSketch-purple?style=for-the-badge&logo=applemusic&logoColor=white" alt="Earsketch Badge"/></td>
