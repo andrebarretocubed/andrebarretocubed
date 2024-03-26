@@ -14,8 +14,10 @@
 </p>
 </div>
 
-<div id="badges" align="center">
+<div id="badges" align="left">
  <h2>🛠️ My Favorite Tools and Languages</h2>
+
+  <div alight="center">
   <table>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/EarSketch-purple?style=for-the-badge&logo=applemusic&logoColor=white" alt="Earsketch Badge"/></td>
@@ -36,6 +38,7 @@
   </table>
   
   <br></br>
+  </div>
 </div>
 
 <div id="projects" align="left">
