@@ -41,7 +41,7 @@
 
 <h2>📘 My Top Projects</h2>
 <p align="left">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://github.com/andrebarretocubed/parse-server-example&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/andrebarretocubed/parse-server-example"><img width="278" src="https://github.com/andrebarretocubed/parse-server-example&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
   </p>
 </div>
 
