@@ -8,7 +8,6 @@
 
 
 <p>
-  Name: Andre Barreto <br></br>
   Pronouns: He/Him
 
   Journey summary about professional development and my experiences in programming...
