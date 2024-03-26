@@ -24,7 +24,7 @@
     <td align="center"><img src="https://img.shields.io/badge/EarSketch-purple?style=for-the-badge&logo=applemusic&logoColor=white" alt="Earsketch Badge"/></td>
     <td align="center"><img src="https://img.shields.io/badge/ChatGPT-green?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge"/></td>
     <td align="center"><img src="https://img.shields.io/badge/Tinkercad-lightblue?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad Badge"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Excalidraw-orange?style=for-the-badge&logo=excalidraw&logoColor=white" alt="SketchRNN Badge"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/AI Art-orange?style=for-the-badge&logo=excalidraw&logoColor=white" alt="SketchRNN Badge"/></td>
   </tr>
    <tr>
     <td align="center"><img src="https://img.shields.io/badge/Codepen-pink?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/></td>
