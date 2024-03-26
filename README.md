@@ -15,9 +15,16 @@
 
 <div id="badges" align="center">
   Here are some of my programming and skill badges: <br></br>
-  <img src="https://img.shields.io/badge/EarSketch-purple?style=for-the-badge&logo=applemusic&logoColor=white" alt="Earsketch Badge"/>
-  <img src="https://img.shields.io/badge/ChatGPT-green?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge"/>
-  <img src="https://img.shields.io/badge/Tinkercad-lightblue?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad Badge"/>
+
+  <table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/EarSketch-purple?style=for-the-badge&logo=applemusic&logoColor=white" alt="Earsketch Badge"/></td>
+    <td><img src="https://img.shields.io/badge/ChatGPT-green?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge"/></td>
+    <td><img src="https://img.shields.io/badge/Tinkercad-lightblue?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad Badge"/></td>
+  </tr>
+  
+  
+  
   <img src="https://img.shields.io/badge/Excalidraw-orange?style=for-the-badge&logo=excalidraw&logoColor=white" alt="SketchRNN Badge"/>
   <img src="https://img.shields.io/badge/Codepen-pink?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
   <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge"/>
