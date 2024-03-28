@@ -1,8 +1,8 @@
 <!-- This profile image was created using this site: https://www.bitmoji.com/
 It was then uploaded to this github repo following this guide: https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
-and referenced in the README file using the markdown code below. -->
+and referenced in the README file using the markdown code below. https://i.imgur.com/DQtEKwl.png-->
 <div id="header" align="center">
-  <img src="https://i.imgur.com/DQtEKwl.png" width="200"/>
+  <img src="./bitmojiprofileandre.png" width="200"/>
 </div>
 
 <div id="intro" align="center">
