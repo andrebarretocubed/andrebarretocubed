@@ -1,15 +1,17 @@
 <!-- This profile image was created using this site: https://www.bitmoji.com/
 It was then uploaded to this github repo following this guide: https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
-and referenced in the README file using the markdown code below. https://i.imgur.com/DQtEKwl.png-->
+and referenced in the README file using the HTML code below. -->
 <div id="header" align="center">
   <img src="./bitmojiprofileandre.png" width="200"/>
 </div>
 
+<!-- This typing header was created using this tool: https://readme-typing-svg.demolab.com/demo/
+And added using markdown code below -->
 <div id="intro" align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&random=false&width=500&height=70&lines=Hello+%F0%9F%91%8B+my+name+is+Andre+Barreto!+;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
-
+<!--Pronouns and introduction summary -->
 <p>
   Pronouns: He/Him
 
@@ -18,6 +20,10 @@ and referenced in the README file using the markdown code below. https://i.imgur
 </p>
 </div>
 
+<!-- Languages and tools created using shield badges in markdown
+More details found here: https://shields.io/
+Company badge images found here: https://simpleicons.org/
+-->
 <div id="badges" align="left">
  <h2>🛠️ My Favorite Tools and Languages</h2>
 
@@ -43,6 +49,8 @@ and referenced in the README file using the markdown code below. https://i.imgur
   </div>
 </div>
 
+<!--Project summary cards created using this tool: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-extra-pins
+Then added via copied markdown code below-->
 <div id="projects" align="left">
 
 <h2>📘 My Top Projects</h2>
