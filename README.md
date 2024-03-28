@@ -64,6 +64,8 @@ Then added via copied markdown code below-->
   </p>
 </div>
 
+<!--Github stats cards created using this tool: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card
+Then added via copied markdown code below-->
 <div id="stats" align="left">
 <h2>📊 My Github Stats</h2>
 
@@ -78,26 +80,12 @@ Then added via copied markdown code below-->
   
 </div>
 
+<!--Social media and contact links-->
 <div id="social" align="left">
 <h2>📫 Get in touch!</h2>
 
 Contact email:
 
 </div>
-
-<!--
-**andrebarretocubed/andrebarretocubed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
